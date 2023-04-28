@@ -47,7 +47,7 @@ I'm a passionate MERN stack developer with 2.5+ years of experience in building 
    ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
    
-- **![Deployment](https://img.shields.io/badge/Deployent-Color?style=for-the-badge)![:](https://img.shields.io/badge/:-000000.svg?style=for-the-badge)** 
+- **![Deployment](https://img.shields.io/badge/Deployment-Color?style=for-the-badge)![:](https://img.shields.io/badge/:-000000.svg?style=for-the-badge)** 
    ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
    ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white)
    ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
