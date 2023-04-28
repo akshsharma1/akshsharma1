@@ -59,11 +59,3 @@ I'm a passionate MERN stack developer with 2.5+ years of experience in building 
    </div>
   </div>
 </div>
-
-<style>
-  @media (max-width: 600px) {
-    div {
-      flex-basis: 100%;
-    }
-  }
-</style>
