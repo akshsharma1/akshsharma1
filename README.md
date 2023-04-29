@@ -1,8 +1,8 @@
 <div align="center"> 
-<img height="300em" width="100%"src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt"Coding"> <br><br>
-</div> 
+<img height="300em" width="100%"src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt"Coding">
+</div>
+<img src="https://i.ibb.co/MgmSdBS/Rainbow.gif" alt="Rainbow" width="100%">
 <h1 align="center">Hi there, I'm Aksh Sharma 👋</h1>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aksh4"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -58,3 +58,16 @@ I'm a passionate MERN stack developer with 2.5+ years of experience in building 
    </div>
   </div>
 </div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=akshsharma1&theme=chartreuse-dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshsharma1&show_icons=true&theme=chartreuse-dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshsharma1&layout=compact&theme=chartreuse-dark)
+
+</div>
+
+<img src="https://i.pinimg.com/originals/e2/c4/b0/e2c4b00229b4a2466dab111708324ec2.png" alt="footer" width="100%">
+<img src="https://i.ibb.co/MgmSdBS/Rainbow.gif" alt="Rainbow" width="100%">
