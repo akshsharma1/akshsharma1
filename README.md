@@ -13,7 +13,7 @@
 ## About Me
 <br>
 
-I'm a passionate MERN stack developer with 2.5+ years of experience in building scalable and robust web applications. I have a strong foundation in JavaScript, and I love working with the MERN (MongoDB, Express.js, React.js, Node.js) stack to create efficient and interactive web experiences. I'm constantly learning and exploring new technologies to stay up-to-date with the latest industry trends.
+I'm a passionate MERN stack developer with 4+ years of experience in building scalable and robust web applications. I have a strong foundation in JavaScript, and I love working with the MERN (MongoDB, Express.js, React.js, Node.js) stack to create efficient and interactive web experiences. I'm constantly learning and exploring new technologies to stay up-to-date with the latest industry trends.
 
 
 <br>
